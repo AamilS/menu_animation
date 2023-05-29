@@ -14,10 +14,10 @@ body
   min-height: 100vh;
   background: #434750;
 }
-#menu
+/* #menu
 {
   width: 100%;
-}
+} */
 #menu ul
 {
   position: relative;
